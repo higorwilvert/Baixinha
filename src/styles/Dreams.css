@@ -1,0 +1,46 @@
+.dreams {
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(135deg, #1a936f, #064635);
+    color: white;
+    min-height: 100vh;
+  }
+  
+  .dreams h1 {
+    font-size: 3rem;
+    font-family: 'Great Vibes', cursive;
+    color: #d4edda;
+    margin-bottom: 40px;
+  }
+  
+  .dreams-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .dream-card {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    text-align: center;
+  }
+  
+  .dream-icon {
+    font-size: 3rem;
+    margin-bottom: 15px;
+    color: #20c997;
+  }
+  
+  .dream-card h3 {
+    font-size: 1.5rem;
+    color: #e0f2e9;
+    margin-bottom: 10px;
+  }
+  
+  .dream-card p {
+    font-size: 1rem;
+    color: #d4edda;
+  }
+  

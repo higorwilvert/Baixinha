@@ -1,0 +1,56 @@
+.playlist {
+  text-align: center;
+  padding: 50px;
+  background: linear-gradient(135deg, #064635, #1a936f); /* Fundo verde elegante */
+  color: white;
+  min-height: 100vh;
+}
+
+.playlist h1 {
+  font-size: 3rem;
+  font-family: 'Great Vibes', cursive;
+  color: #20c997;
+  margin-bottom: 20px;
+}
+
+.playlist p {
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+}
+
+.songs-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+}
+
+.song-card {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.song-card h2 {
+  font-size: 1.5rem;
+  color: #d4edda;
+  margin-bottom: 10px;
+}
+
+.song-card h3 {
+  font-size: 1.2rem;
+  color: #e0f2e9;
+  margin-bottom: 10px;
+}
+
+.song-card p {
+  font-size: 1rem;
+  color: #f8f9fa;
+  margin-bottom: 15px;
+}
+
+.spotify-player {
+  border-radius: 8px;
+  margin-top: 10px;
+}

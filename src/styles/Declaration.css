@@ -1,0 +1,100 @@
+
+.declaration {
+    text-align: center;
+    padding: 50px 20px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #1e1e2f, #2c2c54); /* Fundo escuro */
+    color: white;
+  }
+  
+  .declaration-container {
+    max-width: 900px; /* Mais largura */
+    margin: 0 auto;
+    font-size: 1.4rem; /* Texto maior */
+    line-height: 2; /* Espaçamento maior entre as linhas */
+  }
+  
+  .declaration-paragraph {
+    margin-bottom: 30px; /* Espaçamento entre parágrafos */
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.6); /* Fundo semi-transparente para destacar */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Sombra suave */
+  }
+  
+  .declaration-paragraph p {
+    color: #f8f9fa; /* Texto mais claro */
+  }
+  
+  .btn-next {
+    margin-top: 30px;
+    padding: 12px 25px;
+    background: #ff6f61;
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+  }
+  
+  .btn-next:hover {
+    transform: scale(1.1);
+  }
+  
+
+
+
+
+
+  .declaration {
+    text-align: center;
+    padding: 50px 20px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #064635, #1a936f); /* Fundo verde escuro */
+    color: white;
+}
+
+.declaration-container {
+    max-width: 900px;
+    margin: 0 auto;
+    font-size: 1.4rem;
+    line-height: 2;
+}
+
+.declaration-paragraph {
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 51, 51, 0.6); /* Fundo semi-transparente verde escuro */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.declaration-paragraph p {
+    color: #e0f2e9; /* Texto verde claro */
+}
+
+.btn-next {
+    margin-top: 30px;
+    padding: 12px 25px;
+    background: #20c997; /* Botão verde claro */
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+}
+
+.btn-next:hover {
+    transform: scale(1.1);
+    background: #198754; /* Verde mais escuro no hover */
+}

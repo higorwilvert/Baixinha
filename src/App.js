@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './components/Home';
+import Declaration from './components/Declaration';
+import Gallery from './components/Gallery';
+import FinalMessage from './components/FinalMessage';
+import Header from './components/Header';
+import Playlist from './components/Playlist';
+import Dreams from './components/Dreams';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Header />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/declaration" element={<Declaration />} />
+          <Route path="/gallery" element={<Gallery />} />
+          <Route path="/final-message" element={<FinalMessage />} />
+          <Route path="/playlist" element={<Playlist />} />
+          <Route path="/dreams" element={<Dreams />} />
+        </Routes>
+    </Router>
   );
 }
 
