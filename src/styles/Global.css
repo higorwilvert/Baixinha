@@ -1,0 +1,81 @@
+:root {
+    --bg-color: #004643; /* Cor do fundo principal */
+    --text-color: #fffffe; /* Cor do texto principal */
+    --accent-color: #f9bc60; /* Cor de destaque */
+    --secondary-color: #abd1c6; /* Cor secundária */
+    --dark-color: #001e1d; /* Cor escura */
+    --light-color: #e8e4e6; /* Cor clara */
+    --error-color: #e16162; /* Cor de erro ou alerta */
+    --font-title: 'Playfair Display', serif; /* Fonte para títulos */
+    --font-body: 'Poppins', sans-serif; /* Fonte para textos */
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-body);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    padding-top: 70px; /* Ajustado para refletir a altura do header */
+  }
+  
+  .header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    box-sizing: border-box; /* Garante que padding não afete a largura */
+    background-color: var(--dark-color);
+    z-index: 10;
+  }
+  
+  .nav-links ul {
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden; /* Evita estouro */
+  }
+  
+  .nav-links li {
+    list-style: none;
+  }
+  
+  a {
+    color: var(--accent-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: var(--secondary-color);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-title);
+    margin: 0;
+  }
+  
+  button, .btn {
+    font-family: var(--font-body);
+    background-color: var(--accent-color);
+    color: var(--bg-color);
+    border: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  button:hover, .btn:hover {
+    background-color: var(--secondary-color);
+    transform: scale(1.1);
+  }
+  

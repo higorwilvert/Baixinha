@@ -7,6 +7,8 @@ import FinalMessage from './components/FinalMessage';
 import Header from './components/Header';
 import Playlist from './components/Playlist';
 import Dreams from './components/Dreams';
+import FlowerPage from './components/FlowerPage';
+
 
 function App() {
   return (
@@ -19,6 +21,7 @@ function App() {
           <Route path="/final-message" element={<FinalMessage />} />
           <Route path="/playlist" element={<Playlist />} />
           <Route path="/dreams" element={<Dreams />} />
+          <Route path="/flower" element={<FlowerPage />} />
         </Routes>
     </Router>
   );

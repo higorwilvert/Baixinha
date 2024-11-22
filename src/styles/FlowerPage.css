@@ -1,0 +1,72 @@
+.flower-page {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-color: var(--bg-color); /* Fundo padronizado */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden; /* Evita scroll inesperado */
+}
+
+/* Mensagem no topo */
+.message {
+  position: absolute;
+  top: 10%; /* Centraliza verticalmente no topo */
+  width: 90%; /* Ajusta largura para evitar cortes em telas menores */
+  text-align: center;
+  color: var(--accent-color);
+}
+
+.message h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  font-family: 'Great Vibes', cursive;
+}
+
+.message p {
+  font-size: 1.2rem;
+  font-family: 'Poppins', sans-serif;
+  color: var(--text-color);
+}
+
+/* Bouquet central */
+.bouquet-center img {
+  width: 500px; /* Tamanho maior do bouquet */
+  max-width: 90%; /* Limita a largura em telas menores */
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3); /* Sombra suave */
+  padding-top: 15px;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .message h1 {
+    font-size: 2rem; /* Reduz tamanho do texto em telas médias */
+  }
+
+  .message p {
+    font-size: 1rem; /* Reduz tamanho do texto em telas médias */
+  }
+
+  .bouquet-center img {
+    width: 400px; /* Ajusta largura do bouquet */
+  }
+}
+
+@media (max-width: 480px) {
+  .message h1 {
+    font-size: 1.8rem; /* Ajusta para telas pequenas */
+  }
+
+  .message p {
+    font-size: 0.9rem; /* Ajusta para telas pequenas */
+  }
+
+  .bouquet-center img {
+    width: 300px; /* Ajusta largura do bouquet */
+  }
+}

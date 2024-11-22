@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/Playlist.css';
+import { Link } from 'react-router-dom';
 
 function Playlist() {
   return (
@@ -49,6 +50,8 @@ function Playlist() {
           </div>
         </div>
       </div>
+
+      <Link to="/dreams" className="btn-next">Sonhos</Link>
     </div>
   );
 }

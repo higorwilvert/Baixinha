@@ -5,16 +5,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(135deg, #064635, #1a936f); /* Fundo verde elegante */
-    color: white;
+    background-color: #004643; /* Fundo verde escuro */
+    color: #fffffe; /* Texto claro */
     overflow-y: auto;
 }
 
 .gallery h2 {
     font-size: 2.5rem;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Playfair Display', serif; /* Fonte romântica para o título */
     margin-bottom: 30px;
-    color: #20c997; /* Verde claro */
+    color: #f9bc60; /* Destaque amarelo */
 }
 
 .gallery-grid {
@@ -28,8 +28,8 @@
 .polaroid {
     position: relative;
     padding: 15px;
-    background: #f8f9fa; /* Fundo branco */
-    border: 5px solid #d4edda; /* Borda verde clara */
+    background: #e8e4e6; /* Fundo claro */
+    border: 5px solid #abd1c6; /* Borda verde suave */
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     text-align: center;
@@ -46,7 +46,7 @@
     font-size: 1rem;
     margin-top: 15px;
     font-family: 'Poppins', sans-serif;
-    color: #064635; /* Verde escuro */
+    color: #004643; /* Verde escuro */
 }
 
 .polaroid:hover {
@@ -57,15 +57,16 @@
 .btn-next {
     margin-top: 30px;
     padding: 12px 25px;
-    background: #20c997;
-    color: white;
+    background: #f9bc60; /* Amarelo vibrante */
+    color: #004643; /* Texto verde escuro */
     font-size: 1.2rem;
     border-radius: 8px;
     text-decoration: none;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
 .btn-next:hover {
     transform: scale(1.1);
-    background: #198754;
+    background: #e16162; /* Vermelho suave no hover */
+    color: #fffffe; /* Texto claro no hover */
 }

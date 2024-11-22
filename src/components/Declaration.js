@@ -31,7 +31,7 @@ function Declaration() {
           </motion.div>
         ))}
       </div>
-      <Link to="/gallery" className="btn-next">Próximo</Link>
+      <Link to="/gallery" className="btn-next">Momentos</Link>
     </div>
   );
 }

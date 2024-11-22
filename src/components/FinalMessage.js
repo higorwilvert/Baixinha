@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import '../styles/FinalMessage.css';
+import { Link } from 'react-router-dom';
 
 function FinalMessage() {
   return (
@@ -14,6 +15,7 @@ function FinalMessage() {
       >
         <h1>Vamos continuar criando memórias juntos?</h1>
         <p>Você é a melhor parte da minha vida. Te amo hoje, amanhã e para sempre.</p>
+        <Link to="/flower" className="btn-finish">Pra Não Perder o Costume</Link>
       </motion.div>
     </div>
   );

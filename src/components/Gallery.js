@@ -41,11 +41,11 @@ function Gallery() {
           {photos.map((photo, index) => (
             <div className="polaroid" key={index}>
               <img src={photo} alt={`Momento ${index + 1}`} />
-              <p>{messages[index]}</p> {/* Adiciona a mensagem correspondente */}
+              <p>{messages[index]}</p> 
             </div>
           ))}
         </div>
-        <Link to="/final-message" className="btn-next">Mensagem Final</Link>
+        <Link to="/playlist" className="btn-next">Nossas Musicas</Link>
       </div>
     );
   }
