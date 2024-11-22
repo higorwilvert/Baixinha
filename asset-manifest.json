@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.348dc4ee.css",
-    "main.js": "/static/js/main.358ed04b.js",
-    "static/js/453.4d8ce01e.chunk.js": "/static/js/453.4d8ce01e.chunk.js",
-    "static/media/gerberaClip1.png": "/static/media/gerberaClip1.c992d1a32be5df988bb2.png",
-    "static/media/9.jpeg": "/static/media/9.969ea94d1c7efda690f2.jpeg",
-    "static/media/12.jpeg": "/static/media/12.4bfd15e56940e5e656d9.jpeg",
-    "static/media/1.jpeg": "/static/media/1.77ee58e61eca02ef9fcb.jpeg",
-    "static/media/2.jpeg": "/static/media/2.dcb8c86e69785c52127a.jpeg",
-    "static/media/7.jpeg": "/static/media/7.2d00bf2fb4c438f90016.jpeg",
-    "static/media/6.jpeg": "/static/media/6.c70f98af0e79cc38a50d.jpeg",
-    "static/media/5.jpeg": "/static/media/5.e8742276a9d6ca74e710.jpeg",
-    "static/media/10.jpeg": "/static/media/10.d283ba2d615711ca07f5.jpeg",
-    "static/media/4.jpeg": "/static/media/4.43cd319c73f73d0a51e2.jpeg",
-    "static/media/3.jpeg": "/static/media/3.bf76c0c39114c09bc940.jpeg",
-    "static/media/8.jpeg": "/static/media/8.10ed27430bc5364e8dca.jpeg",
-    "static/media/11.jpeg": "/static/media/11.638e2dd00b3eaae07fdc.jpeg",
-    "index.html": "/index.html",
-    "main.348dc4ee.css.map": "/static/css/main.348dc4ee.css.map",
-    "main.358ed04b.js.map": "/static/js/main.358ed04b.js.map",
-    "453.4d8ce01e.chunk.js.map": "/static/js/453.4d8ce01e.chunk.js.map"
+    "main.css": "/higorwilvert/Baixinha/static/css/main.348dc4ee.css",
+    "main.js": "/higorwilvert/Baixinha/static/js/main.ae1d8aac.js",
+    "static/js/453.4d8ce01e.chunk.js": "/higorwilvert/Baixinha/static/js/453.4d8ce01e.chunk.js",
+    "static/media/gerberaClip1.png": "/higorwilvert/Baixinha/static/media/gerberaClip1.c992d1a32be5df988bb2.png",
+    "static/media/9.jpeg": "/higorwilvert/Baixinha/static/media/9.969ea94d1c7efda690f2.jpeg",
+    "static/media/12.jpeg": "/higorwilvert/Baixinha/static/media/12.4bfd15e56940e5e656d9.jpeg",
+    "static/media/1.jpeg": "/higorwilvert/Baixinha/static/media/1.77ee58e61eca02ef9fcb.jpeg",
+    "static/media/2.jpeg": "/higorwilvert/Baixinha/static/media/2.dcb8c86e69785c52127a.jpeg",
+    "static/media/7.jpeg": "/higorwilvert/Baixinha/static/media/7.2d00bf2fb4c438f90016.jpeg",
+    "static/media/6.jpeg": "/higorwilvert/Baixinha/static/media/6.c70f98af0e79cc38a50d.jpeg",
+    "static/media/5.jpeg": "/higorwilvert/Baixinha/static/media/5.e8742276a9d6ca74e710.jpeg",
+    "static/media/10.jpeg": "/higorwilvert/Baixinha/static/media/10.d283ba2d615711ca07f5.jpeg",
+    "static/media/4.jpeg": "/higorwilvert/Baixinha/static/media/4.43cd319c73f73d0a51e2.jpeg",
+    "static/media/3.jpeg": "/higorwilvert/Baixinha/static/media/3.bf76c0c39114c09bc940.jpeg",
+    "static/media/8.jpeg": "/higorwilvert/Baixinha/static/media/8.10ed27430bc5364e8dca.jpeg",
+    "static/media/11.jpeg": "/higorwilvert/Baixinha/static/media/11.638e2dd00b3eaae07fdc.jpeg",
+    "index.html": "/higorwilvert/Baixinha/index.html",
+    "main.348dc4ee.css.map": "/higorwilvert/Baixinha/static/css/main.348dc4ee.css.map",
+    "main.ae1d8aac.js.map": "/higorwilvert/Baixinha/static/js/main.ae1d8aac.js.map",
+    "453.4d8ce01e.chunk.js.map": "/higorwilvert/Baixinha/static/js/453.4d8ce01e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.348dc4ee.css",
-    "static/js/main.358ed04b.js"
+    "static/js/main.ae1d8aac.js"
   ]
 }
