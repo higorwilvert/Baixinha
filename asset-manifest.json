@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/higorwilvert/Baixinha/static/css/main.348dc4ee.css",
-    "main.js": "/higorwilvert/Baixinha/static/js/main.ae1d8aac.js",
-    "static/js/453.4d8ce01e.chunk.js": "/higorwilvert/Baixinha/static/js/453.4d8ce01e.chunk.js",
-    "static/media/gerberaClip1.png": "/higorwilvert/Baixinha/static/media/gerberaClip1.c992d1a32be5df988bb2.png",
-    "static/media/9.jpeg": "/higorwilvert/Baixinha/static/media/9.969ea94d1c7efda690f2.jpeg",
-    "static/media/12.jpeg": "/higorwilvert/Baixinha/static/media/12.4bfd15e56940e5e656d9.jpeg",
-    "static/media/1.jpeg": "/higorwilvert/Baixinha/static/media/1.77ee58e61eca02ef9fcb.jpeg",
-    "static/media/2.jpeg": "/higorwilvert/Baixinha/static/media/2.dcb8c86e69785c52127a.jpeg",
-    "static/media/7.jpeg": "/higorwilvert/Baixinha/static/media/7.2d00bf2fb4c438f90016.jpeg",
-    "static/media/6.jpeg": "/higorwilvert/Baixinha/static/media/6.c70f98af0e79cc38a50d.jpeg",
-    "static/media/5.jpeg": "/higorwilvert/Baixinha/static/media/5.e8742276a9d6ca74e710.jpeg",
-    "static/media/10.jpeg": "/higorwilvert/Baixinha/static/media/10.d283ba2d615711ca07f5.jpeg",
-    "static/media/4.jpeg": "/higorwilvert/Baixinha/static/media/4.43cd319c73f73d0a51e2.jpeg",
-    "static/media/3.jpeg": "/higorwilvert/Baixinha/static/media/3.bf76c0c39114c09bc940.jpeg",
-    "static/media/8.jpeg": "/higorwilvert/Baixinha/static/media/8.10ed27430bc5364e8dca.jpeg",
-    "static/media/11.jpeg": "/higorwilvert/Baixinha/static/media/11.638e2dd00b3eaae07fdc.jpeg",
-    "index.html": "/higorwilvert/Baixinha/index.html",
-    "main.348dc4ee.css.map": "/higorwilvert/Baixinha/static/css/main.348dc4ee.css.map",
-    "main.ae1d8aac.js.map": "/higorwilvert/Baixinha/static/js/main.ae1d8aac.js.map",
-    "453.4d8ce01e.chunk.js.map": "/higorwilvert/Baixinha/static/js/453.4d8ce01e.chunk.js.map"
+    "main.css": "/Baixinha/static/css/main.348dc4ee.css",
+    "main.js": "/Baixinha/static/js/main.d10cda96.js",
+    "static/js/453.4d8ce01e.chunk.js": "/Baixinha/static/js/453.4d8ce01e.chunk.js",
+    "static/media/gerberaClip1.png": "/Baixinha/static/media/gerberaClip1.c992d1a32be5df988bb2.png",
+    "static/media/9.jpeg": "/Baixinha/static/media/9.969ea94d1c7efda690f2.jpeg",
+    "static/media/12.jpeg": "/Baixinha/static/media/12.4bfd15e56940e5e656d9.jpeg",
+    "static/media/1.jpeg": "/Baixinha/static/media/1.77ee58e61eca02ef9fcb.jpeg",
+    "static/media/2.jpeg": "/Baixinha/static/media/2.dcb8c86e69785c52127a.jpeg",
+    "static/media/7.jpeg": "/Baixinha/static/media/7.2d00bf2fb4c438f90016.jpeg",
+    "static/media/6.jpeg": "/Baixinha/static/media/6.c70f98af0e79cc38a50d.jpeg",
+    "static/media/5.jpeg": "/Baixinha/static/media/5.e8742276a9d6ca74e710.jpeg",
+    "static/media/10.jpeg": "/Baixinha/static/media/10.d283ba2d615711ca07f5.jpeg",
+    "static/media/4.jpeg": "/Baixinha/static/media/4.43cd319c73f73d0a51e2.jpeg",
+    "static/media/3.jpeg": "/Baixinha/static/media/3.bf76c0c39114c09bc940.jpeg",
+    "static/media/8.jpeg": "/Baixinha/static/media/8.10ed27430bc5364e8dca.jpeg",
+    "static/media/11.jpeg": "/Baixinha/static/media/11.638e2dd00b3eaae07fdc.jpeg",
+    "index.html": "/Baixinha/index.html",
+    "main.348dc4ee.css.map": "/Baixinha/static/css/main.348dc4ee.css.map",
+    "main.d10cda96.js.map": "/Baixinha/static/js/main.d10cda96.js.map",
+    "453.4d8ce01e.chunk.js.map": "/Baixinha/static/js/453.4d8ce01e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.348dc4ee.css",
-    "static/js/main.ae1d8aac.js"
+    "static/js/main.d10cda96.js"
   ]
 }
