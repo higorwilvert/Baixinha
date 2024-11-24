@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Baixinha/static/css/main.348dc4ee.css",
-    "main.js": "/Baixinha/static/js/main.d10cda96.js",
+    "main.js": "/Baixinha/static/js/main.caae5b5d.js",
     "static/js/453.4d8ce01e.chunk.js": "/Baixinha/static/js/453.4d8ce01e.chunk.js",
     "static/media/gerberaClip1.png": "/Baixinha/static/media/gerberaClip1.c992d1a32be5df988bb2.png",
     "static/media/9.jpeg": "/Baixinha/static/media/9.969ea94d1c7efda690f2.jpeg",
@@ -18,11 +18,11 @@
     "static/media/11.jpeg": "/Baixinha/static/media/11.638e2dd00b3eaae07fdc.jpeg",
     "index.html": "/Baixinha/index.html",
     "main.348dc4ee.css.map": "/Baixinha/static/css/main.348dc4ee.css.map",
-    "main.d10cda96.js.map": "/Baixinha/static/js/main.d10cda96.js.map",
+    "main.caae5b5d.js.map": "/Baixinha/static/js/main.caae5b5d.js.map",
     "453.4d8ce01e.chunk.js.map": "/Baixinha/static/js/453.4d8ce01e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.348dc4ee.css",
-    "static/js/main.d10cda96.js"
+    "static/js/main.caae5b5d.js"
   ]
 }
