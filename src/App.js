@@ -15,7 +15,8 @@ function App() {
     <Router>
       <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
+          {/* <Route path="/" element={<Home />} /> */}
+          <Route path="/Baixinha" element={<Home />} />
           <Route path="/declaration" element={<Declaration />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/final-message" element={<FinalMessage />} />

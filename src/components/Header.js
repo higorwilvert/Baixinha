@@ -12,14 +12,14 @@ function Header() {
   return (
     <header className="header">
       <div className="logo">
-        <Link to="/">💚 Minha Baixinha</Link>
+        <Link to="/Baixinha">💚 Minha Baixinha</Link>
       </div>
       <button className="menu-toggle" onClick={toggleMenu}>
         ☰
       </button>
       <nav className={`nav-links ${isMenuOpen ? 'open' : ''}`}>
         <ul>
-          <li><Link to="/" onClick={() => setIsMenuOpen(false)}>Início</Link></li>
+          <li><Link to="/Baixinha" onClick={() => setIsMenuOpen(false)}>Início</Link></li>
           <li><Link to="/declaration" onClick={() => setIsMenuOpen(false)}>Declaração</Link></li>
           <li><Link to="/gallery" onClick={() => setIsMenuOpen(false)}>Galeria</Link></li>
           <li><Link to="/playlist" onClick={() => setIsMenuOpen(false)}>Playlist</Link></li>
